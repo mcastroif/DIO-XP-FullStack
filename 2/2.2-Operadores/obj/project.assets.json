@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2(basico)/2(basico).csproj",
-      "projectName": "2(basico)",
-      "projectPath": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2(basico)/2(basico).csproj",
+      "projectUniqueName": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/2.2-Operadores.csproj",
+      "projectName": "2.2-Operadores",
+      "projectPath": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/2.2-Operadores.csproj",
       "packagesPath": "/home/castro/.nuget/packages/",
-      "outputPath": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2(basico)/obj/",
+      "outputPath": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/castro/.nuget/NuGet/NuGet.Config"
