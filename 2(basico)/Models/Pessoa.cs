@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Basico.Models
+namespace Basico.Models //PascalCase para metodos, propriedades e classes
 {
-    public class Pessoa
+    public class Pessoa 
     {
         public string Nome { get; set; }
         public int Idade { get; set; }
