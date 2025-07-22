@@ -1,4 +1,8 @@
-﻿//operador soma
+﻿
+using Models; //importando o namespace Models onde está a classe Calculadora
+//na pasta models do projeto
+
+//operador soma
 
 int a = 10;
 int b = 5;
@@ -106,6 +110,22 @@ if (aprovado)
 else
 {
     Console.WriteLine("Reprovado!");
-}   
+}
 
 //operador not é utilizado para inverter o valor booleano, representado por ! em C#
+
+
+
+// utilizar a classe calculadora criada, com Namespace Models na pasta Models
+//utilizamos o Math.Round para arredondar o resultado de seno, coseno e tangente
+
+Calculadora calculadora = new Calculadora();
+calculadora.Somar(10, 5);
+calculadora.Subtrair(10, 5);
+calculadora.Multiplicar(10, 5);
+calculadora.Dividir(10, 5);
+calculadora.Dividir(10, 0); //teste de divisão por zero
+calculadora.Potenciação(3, 3); //3 elevado a 3
+calculadora.Seno(90); //seno de 90 graus
+calculadora.Coseno(90); //coseno de 90 graus
+calculadora.Tangente(45); //tangente de 45 graus 
