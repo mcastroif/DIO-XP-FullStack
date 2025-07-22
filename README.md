@@ -1,8 +1,5 @@
 # Formação Coding The Future XP - Full-Stack Developer
 
-<p align="center">
-  <img src="https://hermes.digitalinnovation.one/bootcamps/cover/c12f2168-a4de-43f9-a36c-2d4a0a552e6f.png" alt="Banner do bootcamp Coding The Future XP" width="600px" />
-</p>
 
 <p align="center">
   <strong>Repositório dedicado aos projetos e desafios desenvolvidos durante o bootcamp Full-Stack Developer da <a href="https://dio.me/">Digital Innovation One</a> em parceria com a XP.</strong>
