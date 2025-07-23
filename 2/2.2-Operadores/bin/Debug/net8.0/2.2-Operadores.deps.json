@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "2.2-Operadores/1.0.0": {
+        "dependencies": {
+          "2(basico)": "1.0.0"
+        },
         "runtime": {
           "2.2-Operadores.dll": {}
+        }
+      },
+      "2(basico)/1.0.0": {
+        "runtime": {
+          "2(basico).dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "2.2-Operadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2(basico)/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

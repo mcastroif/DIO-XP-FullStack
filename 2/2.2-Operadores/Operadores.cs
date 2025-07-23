@@ -1,7 +1,7 @@
 ﻿
 using Models; //importando o namespace Models onde está a classe Calculadora
 //na pasta models do projeto
-
+using Basico.Models; //namespace presente no models do projeto 2.1
 //operador soma
 
 int a = 10;
@@ -129,3 +129,16 @@ calculadora.Potenciação(3, 3); //3 elevado a 3
 calculadora.Seno(90); //seno de 90 graus
 calculadora.Coseno(90); //coseno de 90 graus
 calculadora.Tangente(45); //tangente de 45 graus 
+
+Pessoa p = new Pessoa(); //utiliza a classe Pessoa para definir um objeto p (camelCase)
+p.Nome = "João";  
+p.Idade = 30;
+p.Apresentar(); //metodo apresentar da classe Pessoa
+
+//metodo pessoa so existe no projeto 2.1, para utilizar é necessario adicionar referencia ao projeto 2.1
+//o sln serve para referenciarmos diferentes projetos que utilizam mesmas soluções
+//neste caso aqui, estou utilizando a solução pessoa, do projeto 2.1, no projeto 2.2, que representa
+//a solução de operadores
+//utilizar a extensão vscode-solution-explorer
+//adicionar os csproj no sln, e adicionar a referencia quando necessario
+//a boa pratica é condensar os commons em uma unica pasta de classes, e apenas uma pasta de solução executavel

@@ -28,3 +28,10 @@
 /home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/obj/Debug/net8.0/2.2-Operadores.pdb
 /home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/obj/Debug/net8.0/2.2-Operadores.genruntimeconfig.cache
 /home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/obj/Debug/net8.0/ref/2.2-Operadores.dll
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/bin/Debug/net8.0/2(basico).deps.json
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/bin/Debug/net8.0/2(basico).runtimeconfig.json
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/bin/Debug/net8.0/2(basico)
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/bin/Debug/net8.0/2(basico).dll
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/bin/Debug/net8.0/2(basico).pdb
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/obj/Debug/net8.0/2.2-Operadores.csproj.AssemblyReference.cache
+/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.2-Operadores/obj/Debug/net8.0/2.2-Oper.98DACEC9.Up2Date
