@@ -37,3 +37,38 @@
 //  Console.WriteLine($"A soma dos números digitados é: {soma}"); //exibe a soma final
 //ctrl k+ ctrl c comenta o codigo selecionado
 
+
+//menu interativo
+
+string opcao;
+bool continuar = true;
+
+while (continuar)
+{
+    //Console.Clear(); //limpa o console para limpar a tela a cada iteração
+    Console.WriteLine("Bem-vindo ao Menu Interativo!");
+    Console.WriteLine("Menu de Opções:");
+    Console.WriteLine("1. Opção 1");
+    Console.WriteLine("2. Opção 2");
+    Console.WriteLine("3. Sair");
+    Console.Write("Escolha uma opção: ");
+    
+    opcao = Console.ReadLine();
+
+    switch (opcao)
+    {
+        case "1":
+            Console.WriteLine("Você escolheu a Opção 1.");
+            break;
+        case "2":
+            Console.WriteLine("Você escolheu a Opção 2.");
+            break;
+        case "3":
+            continuar = false; //sai do laço
+            Console.WriteLine("Saindo do menu...");
+            break;
+        default:
+            Console.WriteLine("Opção inválida, tente novamente.");
+            break;
+    }
+}
