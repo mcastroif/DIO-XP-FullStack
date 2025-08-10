@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj": {}
+    "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj": {}
   },
   "projects": {
-    "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj": {
+    "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj",
+        "projectUniqueName": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj",
         "projectName": "2.3-Estruturas-de-Repetição",
-        "projectPath": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj",
+        "projectPath": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/2.3-Estruturas-de-Repetição.csproj",
         "packagesPath": "/home/castro/.nuget/packages/",
-        "outputPath": "/home/castro/Documentos/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/obj/",
+        "outputPath": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.3-Estruturas-de-Repetição/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/castro/.nuget/NuGet/NuGet.Config"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
