@@ -39,3 +39,5 @@ for (int contador = 0; contador < nomeDaLista.Count; contador++) //o metodo Coun
 }//acessar o elemento da lista é igual a de um array, o metodo foreach funciona igualmente ao array tbm
 
 //preferir em utilizar listas em detrimento dos arrays, pela flexibilidade
+nomeDaLista.Remove("BA"); //remove o elemento da lista
+nomeDaLista.RemoveAt(0); //remove o elemento da posição 0
