@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.4-Arrays/2.4-Arrays.csproj",
+      "projectUniqueName": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2-Fundamentos/2.4-Arrays/2.4-Arrays.csproj",
       "projectName": "2.4-Arrays",
-      "projectPath": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.4-Arrays/2.4-Arrays.csproj",
+      "projectPath": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2-Fundamentos/2.4-Arrays/2.4-Arrays.csproj",
       "packagesPath": "/home/castro/.nuget/packages/",
-      "outputPath": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2/2.4-Arrays/obj/",
+      "outputPath": "/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/2-Fundamentos/2.4-Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/castro/.nuget/NuGet/NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
