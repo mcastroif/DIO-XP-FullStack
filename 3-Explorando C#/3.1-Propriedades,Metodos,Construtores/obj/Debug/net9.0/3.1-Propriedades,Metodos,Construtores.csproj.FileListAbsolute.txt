@@ -1,0 +1,15 @@
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/bin/Debug/net9.0/3.1-Propriedades,Metodos,Construtores
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/bin/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.deps.json
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/bin/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.runtimeconfig.json
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/bin/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.dll
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/bin/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.pdb
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.AssemblyInfoInputs.cache
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.AssemblyInfo.cs
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.csproj.CoreCompileInputs.cache
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.sourcelink.json
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.dll
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/refint/3.1-Propriedades,Metodos,Construtores.dll
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.pdb
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/3.1-Propriedades,Metodos,Construtores.genruntimeconfig.cache
+/home/castro/Documentos/FAYE-backup/CODEmain/Fullstack/DIO/3-Explorando C#/3.1-Propriedades,Metodos,Construtores/obj/Debug/net9.0/ref/3.1-Propriedades,Metodos,Construtores.dll
