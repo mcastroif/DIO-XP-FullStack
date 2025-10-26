@@ -7,6 +7,17 @@ namespace _3._1_Propriedades_Metodos_Construtores.Models
 {
     public class Pessoa
     {
+
+        public Pessoa()
+        {
+            //Construtor padrão e vazio
+        }
+        public Pessoa(string Nome  , int Idade)
+        {
+            //Construtor com parametros:
+        }
+
+
         //criar um campo privado ,gerar encapsulamento das variaveis
         private string _nome;
         private int _idade;
